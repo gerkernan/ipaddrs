@@ -1,7 +1,3 @@
-Yes. Here is your list with subnet masks converted to CIDR “/xx” notation.
-
-I’ve kept one entry per line, in the same order:
-
 129.151.40.192/27
 20.203.190.192/26
 3.7.35.0/25
